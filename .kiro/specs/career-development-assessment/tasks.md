@@ -24,7 +24,7 @@ This implementation plan follows Test-Driven Development (TDD) principles with s
   - _Requirements: Foundation for continuous testing_
 
 - [ ] 3. Set up frontend project structure
-  - Create React project with Vite or Create React App
+  - Create React project with Create React App
   - Install dependencies: React Router, Axios, Chart.js or Recharts, Material-UI or Ant Design
   - Set up folder structure: components, pages, services, hooks, utils, contexts
   - Configure environment variables for API URL (.env files)
